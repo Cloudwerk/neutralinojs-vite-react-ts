@@ -1,12 +1,11 @@
 # Neutralinojs + Vite + React + Typescript
-A simple React template for building Neutralinojs apps with Vite as bundler and typescript
+A simple [React](https://react.dev/) template for building [Neutralinojs](https://neutralino.js.org/) apps with [Vite](https://vitejs.dev/) as bundler and [Typescript](https://www.typescriptlang.org/)
 
 ## How to install
 Create a new Neutralinojs project with this template with the following command:
 1. `neu create myapp --template Cloudwerk/neutralinojs-vite-react-ts`
 2. `cd myapp`
-3. `npm install`
-4. Create a `.env` file with the content `VITE_GLOBAL_URL=http://localhost:3000/`
+3. Create a `.env` file with the content `VITE_GLOBAL_URL=http://localhost:3000/`
 
 ## How to develop
 
