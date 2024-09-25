@@ -16,7 +16,8 @@ Create a new Neutralinojs project with this template with the following command:
 4. run `neu update`
 5. run `cd vite-src`
 6. Adjust the `name` property to your desired Application Name inside the `package.json` file
-7. run `npm install`
+7. Create a `.env` file with the content `VITE_GLOBAL_URL=http://localhost:3000/`
+8. run `npm install`
 
 ## Known Issues
 - When running the dev server with `neu run`, it spams the Terminal with `neu: INFO Global variables patch was reverted`
