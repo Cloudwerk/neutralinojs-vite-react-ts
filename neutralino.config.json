@@ -8,6 +8,7 @@
 	"enableServer": true,
 	"enableNativeAPI": true,
 	"nativeAllowList": ["app.*", "filesystem.readDirectory"],
+	"singlePageServe": true,
 	"modes": {
 		"window": {
 			"title": "myapp",
