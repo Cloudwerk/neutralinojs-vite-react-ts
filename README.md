@@ -21,6 +21,7 @@ Create a new Neutralinojs project with this template with the following command:
 
 ## Known Issues
 - When running the dev server with `neu run`, it spams the Terminal with `neu: INFO Global variables patch was reverted`
+*Note*: There is a [workaround](https://github.com/neutralinojs/neutralinojs/issues/1324) for this
 
 ## How to develop
 
