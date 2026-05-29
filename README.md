@@ -19,6 +19,9 @@ Create a new Neutralinojs project with this template with the following command:
 7. Create a `.env` file with the content `VITE_GLOBAL_URL=http://localhost:3000/`
 8. run `npm install`
 
+## Apps using this Template
+- [TTS WebUI Ignition](https://github.com/rsxdalv/tts-webui-ignition), Desktop App for TTS WebUI
+
 ## Known Issues
 None :)
 
