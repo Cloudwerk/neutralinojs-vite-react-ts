@@ -1,6 +1,8 @@
 # Neutralinojs + Vite + React + Typescript
 A simple [React](https://react.dev/) template for building [Neutralinojs](https://neutralino.js.org/) apps with [Vite](https://vitejs.dev/) as bundler and [Typescript](https://www.typescriptlang.org/)
 
+This package still uses React SWC, which means react compiler isn't running.
+
 ## How to set up
 ### Prerequisites
 All prerequisites of Neutralino, Vite, React and Typescript apply. You should have Neutralinojs CLI installed.
